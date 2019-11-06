@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 GDURL="https://docs.google.com/uc?export=download"
 
 downloadfile () {
