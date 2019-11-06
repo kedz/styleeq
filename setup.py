@@ -11,7 +11,7 @@ setup(
    dependency_links = [],
    include_package_data=True,
    zip_safe=False,
-   install_requires = ["jsonnet", "ujson", "matplotlib", "pandas", 
+   install_requires = ["jsonnet", "ujson", "matplotlib", "pandas", "Pillow",
                        "torch==1.1.0", "tb-nightly", "future", "scikit-learn"],
    entry_points={"console_scripts": ["plumr=plum.plumr:main"]},
    package_data={
