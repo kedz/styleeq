@@ -17,6 +17,15 @@ $ cd eval_scripts; ./install.sh; cd ..
 
 Data will apear in a directory called literary_style_data.
 
+# DOWNLOAD MODELS
+
+Instead of training your own models, you can use our models we used for the
+paper by downloading them. Simply run:
+
+./download_models.sh
+
+Models will appear in a directory called style_models.
+
 # Train 
 
 To train the StyleEQ model run:
