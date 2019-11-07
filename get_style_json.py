@@ -39,7 +39,7 @@ PARAMS = {
     'conjunction': ['and', 'or', 'nor', 'but', 'so', 'yet'],
     'helperVerbs': ['be', 'is', 'am', 'are', 'was', 'were', 'can', 'could', 
                     'dare', 'do', 'have', 'has', 'may', 'might', 'must', 
-                    'should', 'will', 'would'],
+                    'should', 'will', 'would', 'had'],
     'negation': ['not', "n't"]
     }
 
