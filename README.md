@@ -55,6 +55,7 @@ to that format. To convert a raw string to the correct format requires
 the Stanford Core NLP library. To download run:
 
 `$ wget http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip` 
+
 `$ unzip stanford-corenlp-full-2018-10-05.zip`
 
 To run the generation script, run:
